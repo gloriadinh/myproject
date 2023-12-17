@@ -1,0 +1,12 @@
+CW,Coconut Wheel,3.8,Available
+DC, Donut Curry,4.3,Available
+PB,Peanut Butter,3.5,Available
+SS,Strawberry Snail,4.3,Available
+SM,Sesame Mochi,4.0,Available
+MRB,Matcha Red Bean,4.3,Available
+GCC,Garlic Cream Cheese,4.3,Available
+SOD,Spring Onion Delight,3.8,Available
+PF,Pizza Frank,4.9,Unavailable
+BH,Bull Horn,3.5,Available
+RJ,Roti John,3.8,Available
+PP,Pumkin Polo,4.0,Available
